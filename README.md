@@ -2,7 +2,7 @@
 
 ## Semantic Versioning
 
-This project will utilze semati versioning for its tagging.
+This project will utilze semati versioning for its tagging. Changes added
 
 [semver.org]https://semver.org/
 
